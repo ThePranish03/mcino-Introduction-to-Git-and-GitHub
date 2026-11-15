@@ -1,0 +1,11 @@
+> git branch -a
+  bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-typo
+  remotes/origin/main
+  remotes/upstream/HEAD -> upstream/main
+  remotes/upstream/main
+> git branch -vv
+  bug-fix-typo 8008365 [origin/bug-fix-typo] Fix simple interest typo and calculation
+* main         d48d71d [origin/main] Preserve Bash script line endings

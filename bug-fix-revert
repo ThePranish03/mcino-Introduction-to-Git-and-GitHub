@@ -1,0 +1,2 @@
+> curl.exe -sS -H "Accept: application/vnd.github+json" "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls?state=all&head=ThePranish03%3Abug-fix-typo&base=main"
+[]

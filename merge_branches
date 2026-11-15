@@ -1,0 +1,10 @@
+> git checkout main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+Switched to branch 'main'
+> git merge bug-fix-typo
+Updating c66095d..8008365
+Fast-forward
+ simple-interest.sh | 30 +++++++++++++++++++-----------
+ 1 file changed, 19 insertions(+), 11 deletions(-)
+ mode change 100644 => 100755 simple-interest.sh
